@@ -47,12 +47,12 @@ F 3 "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf" H 2350 2650 50  0001
 	1    0    0    1   
 $EndComp
 $Comp
-L Connector:USB_B USB1
+L Connector:USB_A USB1
 U 1 1 6002CF10
 P 13450 2550
 F 0 "USB1" H 13507 3017 50  0000 C CNN
 F 1 "USB_B_Full" H 13507 2926 50  0000 C CNN
-F 2 "Connectors:USB_B" H 13600 2500 50  0001 C CNN
+F 2 "Connectors:USB_A_Vertical" H 13600 2500 50  0001 C CNN
 F 3 "~" H 13600 2500 50  0001 C CNN
 	1    13450 2550
 	1    0    0    -1  

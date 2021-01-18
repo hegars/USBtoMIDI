@@ -1066,32 +1066,10 @@ F 3 "" H 3300 7050 50  0001 C CNN
 	1    3300 7050
 	1    0    0    -1  
 $EndComp
-Text GLabel 8100 5850 0    50   Input ~ 0
-MIDI_IN
 Text GLabel 8100 5950 0    50   Input ~ 0
+MIDI_IN
+Text GLabel 8100 6050 0    50   Input ~ 0
 MIDI_OUT
-$Comp
-L power:GND #PWR0146
-U 1 1 601A1DE5
-P 8100 6050
-F 0 "#PWR0146" H 8100 5800 50  0001 C CNN
-F 1 "GND" V 8100 5850 50  0000 C CNN
-F 2 "" H 8100 6050 50  0001 C CNN
-F 3 "" H 8100 6050 50  0001 C CNN
-	1    8100 6050
-	0    1    1    0   
-$EndComp
-$Comp
-L power:+5V #PWR0147
-U 1 1 601A27C1
-P 8100 5750
-F 0 "#PWR0147" H 8100 5600 50  0001 C CNN
-F 1 "+5V" V 8100 5900 50  0000 L CNN
-F 2 "" H 8100 5750 50  0001 C CNN
-F 3 "" H 8100 5750 50  0001 C CNN
-	1    8100 5750
-	0    -1   -1   0   
-$EndComp
 $Comp
 L power:GND #PWR0148
 U 1 1 601AC69E
@@ -1113,32 +1091,6 @@ F 2 "Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm" H 8300 5850 50  0001 C CN
 F 3 "~" H 8300 5850 50  0001 C CNN
 	1    8300 5850
 	1    0    0    -1  
-$EndComp
-Text GLabel 8600 5850 2    50   Input ~ 0
-TTL_RXD
-Text GLabel 8600 5950 2    50   Input ~ 0
-TTL_TXD
-$Comp
-L power:+5V #PWR0149
-U 1 1 601B6FFF
-P 8600 5750
-F 0 "#PWR0149" H 8600 5600 50  0001 C CNN
-F 1 "+5V" V 8600 5900 50  0000 L CNN
-F 2 "" H 8600 5750 50  0001 C CNN
-F 3 "" H 8600 5750 50  0001 C CNN
-	1    8600 5750
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR0150
-U 1 1 601B7A49
-P 8600 6050
-F 0 "#PWR0150" H 8600 5800 50  0001 C CNN
-F 1 "GND" V 8600 5850 50  0000 C CNN
-F 2 "" H 8600 6050 50  0001 C CNN
-F 3 "" H 8600 6050 50  0001 C CNN
-	1    8600 6050
-	0    -1   -1   0   
 $EndComp
 Text GLabel 11350 2650 2    50   Input ~ 0
 TTL_RXD
@@ -2001,4 +1953,12 @@ Wire Wire Line
 Connection ~ 7800 7500
 Wire Wire Line
 	7800 7500 7900 7500
+Text GLabel 8100 5750 0    50   Input ~ 0
+MIDI_IN
+Text GLabel 8600 5750 2    50   Input ~ 0
+TTL_RXD
+Text GLabel 8600 6050 2    50   Input ~ 0
+TTL_TXD
+Text Notes 7900 6400 0    50   ~ 0
+1-2 Send MIDI to uC\n5-7 Loop MIDI to Outputs\n7-8 Send MIDI from uC
 $EndSCHEMATC
