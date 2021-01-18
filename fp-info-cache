@@ -1,888 +1,1497 @@
-1610936010054
-Connectors
-1pin
+1610966345164
+Housings_DIP
+DIP-4_W7.62mm
 
 
 0
 0
 0
-Connectors
-3M-N7E50
+Housings_DIP
+DIP-4_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-BARREL_JACK
+Housings_DIP
+DIP-4_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-BNC
+Housings_DIP
+DIP-4_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-BUS_AT
+Housings_DIP
+DIP-4_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-BUS_PCI
+Housings_DIP
+DIP-4_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Banana_Jack_1Pin
+Housings_DIP
+DIP-4_W10.16mm
 
 
 0
 0
 0
-Connectors
-Banana_Jack_2Pin
+Housings_DIP
+DIP-4_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-Banana_Jack_3Pin
+Housings_DIP
+DIP-6_W7.62mm
 
 
 0
 0
 0
-Connectors
-Barrel_Jack_CUI_PJ-036AH-SMT
+Housings_DIP
+DIP-6_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-Barrel_Jack_CUI_PJ-102AH
+Housings_DIP
+DIP-6_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-C96ABCFD
+Housings_DIP
+DIP-6_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-C96ABCMD
+Housings_DIP
+DIP-6_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-CNT3BRCMS
+Housings_DIP
+DIP-6_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-CR1220
+Housings_DIP
+DIP-6_W10.16mm
 
 
 0
 0
 0
-Connectors
-CR2032H
+Housings_DIP
+DIP-6_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-CR2032V
+Housings_DIP
+DIP-8_W7.62mm
 
 
 0
 0
 0
-Connectors
-CUI_PD-30
+Housings_DIP
+DIP-8_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-FMC_LPC_ASP-134604-01
+Housings_DIP
+DIP-8_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-Fan_Pin_Header_Straight_1x03
+Housings_DIP
+DIP-8_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-Fan_Pin_Header_Straight_1x04
+Housings_DIP
+DIP-8_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-GS2
+Housings_DIP
+DIP-8_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-GS3
+Housings_DIP
+DIP-8_W10.16mm
 
 
 0
 0
 0
-Connectors
-GS_6x2
+Housings_DIP
+DIP-8_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-GS_8x2
+Housings_DIP
+DIP-10_W7.62mm
 
 
 0
 0
 0
-Connectors
-GS_9x2
+Housings_DIP
+DIP-10_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-GTK2400-H2
+Housings_DIP
+DIP-10_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-GTK2400-V2
+Housings_DIP
+DIP-10_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-GoldTek_SCP20GR11
+Housings_DIP
+DIP-10_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-GoldTek_SCP20GS11
+Housings_DIP
+DIP-10_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Grove_1x04
+Housings_DIP
+DIP-10_W10.16mm
 
 
 0
 0
 0
-Connectors
-HE10-10C
+Housings_DIP
+DIP-10_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-HE10-20D
+Housings_DIP
+DIP-12_W7.62mm
 
 
 0
 0
 0
-Connectors
-HE10-26D
+Housings_DIP
+DIP-12_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-HE10-34D
+Housings_DIP
+DIP-12_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-HE10-40D
+Housings_DIP
+DIP-12_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-HE10-50D
+Housings_DIP
+DIP-12_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-HE10-60D
+Housings_DIP
+DIP-12_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-HE10-64D
+Housings_DIP
+DIP-12_W10.16mm
 
 
 0
 0
 0
-Connectors
-IQRF_KON-SIM-01
+Housings_DIP
+DIP-12_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-JACK_ALIM
+Housings_DIP
+DIP-14_W7.62mm
 
 
 0
 0
 0
-Connectors
-JWT_Vertical_A3963-RM3.96mm-2
+Housings_DIP
+DIP-14_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-NMJ6HCD2
+Housings_DIP
+DIP-14_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-PCI-EXPRESS
+Housings_DIP
+DIP-14_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-PINHEAD1-2
+Housings_DIP
+DIP-14_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-PINHEAD1-3
+Housings_DIP
+DIP-14_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-PINHEAD1-6
+Housings_DIP
+DIP-14_W10.16mm
 
 
 0
 0
 0
-Connectors
-PINTST
+Housings_DIP
+DIP-14_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-PJ311_3.5mm_Jack
+Housings_DIP
+DIP-16_W7.62mm
 
 
 0
 0
 0
-Connectors
-PJ320D_3.5mm_Jack
+Housings_DIP
+DIP-16_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-PJ320E_3.5mm_Jack
+Housings_DIP
+DIP-16_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-PJ31060-I_3.5mm_Jack
+Housings_DIP
+DIP-16_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-Pin_d0.7mm_L6.5mm_W1.8mm_FlatFork
+Housings_DIP
+DIP-16_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d0.9mm_L10.0mm_W2.4mm_FlatFork
+Housings_DIP
+DIP-16_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.0mm_L10.0mm
+Housings_DIP
+DIP-16_W10.16mm
 
 
 0
 0
 0
-Connectors
-Pin_d1.0mm_L10.0mm_LooseFit
+Housings_DIP
+DIP-16_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.1mm_L8.5mm_W2.5mm_FlatFork
+Housings_DIP
+DIP-18_W7.62mm
 
 
 0
 0
 0
-Connectors
-Pin_d1.1mm_L10.2mm_W3.5mm_Flat
+Housings_DIP
+DIP-18_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.2mm_L10.2mm_W2.9mm_FlatFork
+Housings_DIP
+DIP-18_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.2mm_L11.3mm_W3.0mm_Flat
+Housings_DIP
+DIP-18_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-Pin_d1.3mm_L10.0mm_W3.5mm_Flat
+Housings_DIP
+DIP-18_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.3mm_L11.0mm
+Housings_DIP
+DIP-18_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.3mm_L11.0mm_LooseFit
+Housings_DIP
+DIP-20_W7.62mm
 
 
 0
 0
 0
-Connectors
-Pin_d1.3mm_L11.3mm_W2.8mm_Flat
+Housings_DIP
+DIP-20_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-Pin_d1.4mm_L8.5mm_W2.8mm_FlatFork
+Housings_DIP
+DIP-20_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-QMS-1X52-FEMALE-SMD
+Housings_DIP
+DIP-20_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-QMS-1X52-SMD
+Housings_DIP
+DIP-20_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-QMS-2X52-SMD
+Housings_DIP
+DIP-20_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-RJ12_E
+Housings_DIP
+DIP-22_W7.62mm
 
 
 0
 0
 0
-Connectors
-RJ45_8
+Housings_DIP
+DIP-22_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-RJ45_TRANSFO
+Housings_DIP
+DIP-22_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-RJ45_TRANSFO_ver2
+Housings_DIP
+DIP-22_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-RJHSE538X
+Housings_DIP
+DIP-22_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-SAS_mini_1888174
+Housings_DIP
+DIP-22_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-SATA-7_SMD
+Housings_DIP
+DIP-22_W10.16mm
 
 
 0
 0
 0
-Connectors
-SATA-7_THT_VERT_1
+Housings_DIP
+DIP-22_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-SATA-7_THT_VERT_2
+Housings_DIP
+DIP-22_W10.16mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-SATA-22_SMD
+Housings_DIP
+DIP-22_W10.16mm_Socket
 
 
 0
 0
 0
-Connectors
-SDS-50J
+Housings_DIP
+DIP-22_W10.16mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-SD_Card_Receptacle
+Housings_DIP
+DIP-22_W11.43mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-SMA_SMD_Jack_Straight
+Housings_DIP
+DIP-24_W7.62mm
 
 
 0
 0
 0
-Connectors
-SMA_THT_Jack_Straight
+Housings_DIP
+DIP-24_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-SMB_Straight
+Housings_DIP
+DIP-24_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-SOC676BR
+Housings_DIP
+DIP-24_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-SOC676C
+Housings_DIP
+DIP-24_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-SOC676NY
+Housings_DIP
+DIP-24_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-SUBCLICK
+Housings_DIP
+DIP-24_W10.16mm
 
 
 0
 0
 0
-Connectors
-Stereo_Jack_3.5mm_Switch_Ledino_KB3SPRS
+Housings_DIP
+DIP-24_W10.16mm_LongPads
 
 
 0
 0
 0
-Connectors
-TE_Futurebus+_5536607-1
+Housings_DIP
+DIP-24_W10.16mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-Tag-Connect_TC2030-IDC-FP
+Housings_DIP
+DIP-24_W10.16mm_Socket
 
 
 0
 0
 0
-Connectors
-Tag-Connect_TC2030-IDC-NL
+Housings_DIP
+DIP-24_W10.16mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-Tag-Connect_TC2050-IDC-FP
+Housings_DIP
+DIP-24_W11.43mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Tag-Connect_TC2050-IDC-NL
+Housings_DIP
+DIP-24_W15.24mm
 
 
 0
 0
 0
-Connectors
-Tag-Connect_TC2070-IDC-FP
+Housings_DIP
+DIP-24_W15.24mm_LongPads
 
 
 0
 0
 0
-Connectors
-USB_A
+Housings_DIP
+DIP-24_W15.24mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-USB_A_Vertical
+Housings_DIP
+DIP-24_W15.24mm_Socket
 
 
 0
 0
 0
-Connectors
-USB_B
+Housings_DIP
+DIP-24_W15.24mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-USB_B_MUSB_Straight
+Housings_DIP
+DIP-24_W16.51mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-USB_Micro-B
+Housings_DIP
+DIP-28_W7.62mm
 
 
 0
 0
 0
-Connectors
-USB_Micro-B_10103594-0001LF
+Housings_DIP
+DIP-28_W7.62mm_LongPads
 
 
 0
 0
 0
-Connectors
-USB_Mini-B
+Housings_DIP
+DIP-28_W7.62mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-Wafer_Horizontal10x5.8x7RM2.5-3
+Housings_DIP
+DIP-28_W7.62mm_Socket
 
 
 0
 0
 0
-Connectors
-Wafer_Horizontal15x5.8x7RM2.5-5
+Housings_DIP
+DIP-28_W7.62mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-Wafer_Horizontal17.5x5.8x7RM2.5-6
+Housings_DIP
+DIP-28_W8.89mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Wafer_Horizontal20x5.8x7RM2.5-7
+Housings_DIP
+DIP-28_W15.24mm
 
 
 0
 0
 0
-Connectors
-Wafer_Horizontal22.5x5.8x7RM2.5-8
+Housings_DIP
+DIP-28_W15.24mm_LongPads
 
 
 0
 0
 0
-Connectors
-Wafer_Vertical10x5.8x7RM2.5-3
+Housings_DIP
+DIP-28_W15.24mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-Wafer_Vertical15x5.8x7RM2.5-5
+Housings_DIP
+DIP-28_W15.24mm_Socket
 
 
 0
 0
 0
-Connectors
-Wafer_Vertical17.5x5.8x7RM2.5-6
+Housings_DIP
+DIP-28_W15.24mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-Wafer_Vertical20x5.8x7RM2.5-7
+Housings_DIP
+DIP-28_W16.51mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-Wafer_Vertical22.5x5.8x7RM2.5-8
+Housings_DIP
+DIP-32_W7.62mm
 
 
 0
 0
 0
-Connectors
-XLR3MC
+Housings_DIP
+DIP-32_W15.24mm
 
 
 0
 0
 0
-Connectors
-XLR5MC
+Housings_DIP
+DIP-32_W15.24mm_LongPads
 
 
 0
 0
 0
-Connectors
-bnc-ci
+Housings_DIP
+DIP-32_W15.24mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-c64abfd
+Housings_DIP
+DIP-32_W15.24mm_Socket
 
 
 0
 0
 0
-Connectors
-c64abmd
+Housings_DIP
+DIP-32_W15.24mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-c64acfd
+Housings_DIP
+DIP-32_W16.51mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-he10-10d
+Housings_DIP
+DIP-40_W15.24mm
 
 
 0
 0
 0
-Connectors
-he10-14c
+Housings_DIP
+DIP-40_W15.24mm_LongPads
 
 
 0
 0
 0
-Connectors
-he10-14d
+Housings_DIP
+DIP-40_W15.24mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-he10-16c
+Housings_DIP
+DIP-40_W15.24mm_Socket
 
 
 0
 0
 0
-Connectors
-he10-16d
+Housings_DIP
+DIP-40_W15.24mm_Socket_LongPads
 
 
 0
 0
 0
-Connectors
-he10-20c
+Housings_DIP
+DIP-40_W16.51mm_SMDSocket_LongPads
 
 
 0
 0
 0
-Connectors
-he10-26c
+Housings_DIP
+DIP-40_W25.4mm
 
 
 0
 0
 0
-Connectors
-he10-34c
+Housings_DIP
+DIP-40_W25.4mm_LongPads
 
 
 0
 0
 0
-Connectors
-he10-40c
+Housings_DIP
+DIP-40_W25.4mm_SMDSocket_SmallPads
 
 
 0
 0
 0
-Connectors
-microSD_Card_Receptacle_Wuerth_693072010801
+Housings_DIP
+DIP-40_W25.4mm_Socket
+
+
+0
+0
+0
+Housings_DIP
+DIP-40_W25.4mm_Socket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-40_W26.67mm_SMDSocket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-42_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+DIP-42_W15.24mm_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-42_W15.24mm_SMDSocket_SmallPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-42_W15.24mm_Socket
+
+
+0
+0
+0
+Housings_DIP
+DIP-42_W15.24mm_Socket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-42_W16.51mm_SMDSocket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-48_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+DIP-48_W15.24mm_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-48_W15.24mm_SMDSocket_SmallPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-48_W15.24mm_Socket
+
+
+0
+0
+0
+Housings_DIP
+DIP-48_W15.24mm_Socket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-48_W16.51mm_SMDSocket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W15.24mm_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W15.24mm_SMDSocket_SmallPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W15.24mm_Socket
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W15.24mm_Socket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W16.51mm_SMDSocket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W22.86mm
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W22.86mm_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W22.86mm_SMDSocket_SmallPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W22.86mm_Socket
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W22.86mm_Socket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W24.13mm_SMDSocket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W25.4mm
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W25.4mm_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W25.4mm_SMDSocket_SmallPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W25.4mm_Socket
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W25.4mm_Socket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+DIP-64_W26.67mm_SMDSocket_LongPads
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-4_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-4_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-4_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-4_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-6_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-6_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-6_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-6_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-8_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-8_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-8_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-8_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-10_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-10_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-10_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-10_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-12_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-12_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-12_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-12_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-14_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-14_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-14_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-14_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-16_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-16_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-16_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-16_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-18_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-18_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-18_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-18_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-20_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-20_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-20_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-20_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-22_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-22_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-22_W9.53mm_Clearance8mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-22_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-24_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-24_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-24_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-24_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-28_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-32_W7.62mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-32_W9.53mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-32_W11.48mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-32_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-40_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-40_W25.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-42_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-48_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+SMDIP-64_W15.24mm
+
+
+0
+0
+0
+Housings_DIP
+Toshiba_11-7A9
 
 
 0
