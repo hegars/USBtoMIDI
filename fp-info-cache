@@ -1,4 +1,4 @@
-974059367204781
+980788161691086
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 
@@ -46473,6 +46473,13 @@ THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
 17
 17
 Sebs
+DSUB-15_Male_EdgeMount_P2.77mm
+25-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 47.1mm
+0
+15
+15
+Sebs
 DSUB-25_Female_EdgeMount_P2.77mm
 25-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
 25-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 47.1mm
@@ -46487,6 +46494,13 @@ DSUB-25_Male_EdgeMount_P2.77mm
 25
 25
 Sebs
+ESP-12E
+
+
+0
+22
+22
+Sebs
 EasyDriver_v45
 32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
 THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
@@ -46500,6 +46514,13 @@ ISA16
 0
 98
 98
+Sebs
+NodeMCUAmicaBoard
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+30
+30
 Sebs
 RaspberryPiZero
 
@@ -46563,6 +46584,13 @@ TFBGA-96_8x8mm_Pitch_0.65mm
 0
 96
 96
+Sebs
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
 Sebs
 Test
 
